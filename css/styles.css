@@ -564,9 +564,9 @@ background-color: #404bbf
     fill: #f4f4fd;
 }
 
-.footer-Subscribe{}
+.footer-subscribe{}
 
-.footer-tex-Subscribe {
+.footer-tex-subscribe {
     font-family: "Roboto", sans-serif;
     margin-bottom: 16px;
     font-weight: 500;
@@ -581,7 +581,7 @@ background-color: #404bbf
     gap: 24px;
 }
 
-.Subscribe-email {}
+.subscribe-email {}
 
 .footer-input::placeholder {
     font-size: 12px;
